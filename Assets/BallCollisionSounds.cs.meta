@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 09ca337fe99b0ff40940fae334b93e94
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - computerPaddleHitSound: {fileID: 8300000, guid: 976524ffd83dda94e9aac44f1a12b114, type: 3}
+  - playerPaddleHitSound: {fileID: 8300000, guid: 976524ffd83dda94e9aac44f1a12b114, type: 3}
+  - topWallHitSound: {fileID: 8300000, guid: 976524ffd83dda94e9aac44f1a12b114, type: 3}
+  - bottomWallHitSound: {fileID: 8300000, guid: 976524ffd83dda94e9aac44f1a12b114, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
